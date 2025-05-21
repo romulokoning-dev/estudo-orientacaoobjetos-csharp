@@ -16,8 +16,8 @@ Aprender os conceitos básicos da POO, tais como:
 
 ##  Arquivos do Repositório:
 
-- `Pessoa.cs`: Código original sem comentários
-- `PessoaComentado.cs`: Código comentado linha por linha para estudo e explicação do meu racíocinio lógico, além de um trecho resumindo o conteúdo fixado
+- `estudo-manipulacaoobjetos-c#-.cs`: Código original sem comentários
+- `estudo-manipulacaoobjetos-c#-comentado.cs`: Código comentado linha por linha para estudo e explicação do meu racíocinio lógico, além de um trecho resumindo o conteúdo fixado
 
 ---
 
