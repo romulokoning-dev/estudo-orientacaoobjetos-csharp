@@ -1,6 +1,6 @@
 # Projeto: Apresentação de Pessoas
 
-Este projeto é um exercício simples e introdutório sobre **Programação Orientada a Objetos (POO)** em **C#**. Através da criação da classe `Pessoa`, simulo uma apresentação no console utilizando atributos como nome, idade e profissão.
+Esse projeto é um exercício introdutório sobre **Programação Orientada a Objetos (POO)** em **C#**. Através da criação da classe `Pessoa`, simulo uma apresentação no console utilizando atributos como nome, idade e profissão e como isso ajuda a tornar o código limpo e facilitado para leitura.
 
 ---
 
